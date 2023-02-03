@@ -1,2 +1,4 @@
 firstCommit(Main)
 alphaCommit(before merge)
+firstCommit(Newbranch)
+secondCommit(newbranch)
